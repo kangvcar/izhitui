@@ -1,0 +1,16 @@
+.shop-thumb img{
+    width: 200px;
+    height: 200px;
+}
+
+.bottom_progress{
+    /* padding-top: 80px; */
+    padding: 50px 10px;
+    width: 100%;
+    background-color: #fff;
+    height: 200px;
+}
+.progress{
+    width: 80%;
+    display: inline-block;
+}
